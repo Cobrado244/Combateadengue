@@ -1,5 +1,5 @@
-<title>Combate à Dengue - Prevenção, Sintomas e Cuidados</title> <style> * { margin: 0; padding: 0; box-sizing: border-box; }
 <!DOCTYPE html>
+<title>Combate à Dengue - Prevenção, Sintomas e Cuidados</title> <style> * { margin: 0; padding: 0; box-sizing: border-box; }
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
